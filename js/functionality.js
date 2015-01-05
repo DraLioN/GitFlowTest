@@ -1,1 +1,3 @@
-first javascriopt content
+function functionality(){
+	return 0;
+}
